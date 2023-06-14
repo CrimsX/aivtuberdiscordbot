@@ -1,4 +1,5 @@
 # aivtuberdiscordbot
 
 XxSNIPER2000xX WAS HERE
+
 THE WOKELER WAS HERE
