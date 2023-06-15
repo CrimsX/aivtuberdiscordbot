@@ -1,4 +1,6 @@
-if __name == "__main__":
-    print("hello world!")
+import bot
 
-main()
+if __name__ == "__main__":
+    bot.run_bot()
+
+
